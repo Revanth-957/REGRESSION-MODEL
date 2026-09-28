@@ -3,7 +3,7 @@
 Each notebook is broken into small, beginner-friendly cells and includes data inspection, cleaning, model comparison, tuning, and evaluation.
 
 ## Files
-- Classification/classification_models_simple.ipynb and breast_cancer_classification.csv
+- Regression/regression_models_simple.ipynb and diabetes_regression.csv
 
 ## Run
 Install with `pip install pandas numpy matplotlib scikit-learn jupyter`, then open each notebook in Jupyter or Google Colab. Keep each CSV in the same folder as its notebook and run cells top-to-bottom.
