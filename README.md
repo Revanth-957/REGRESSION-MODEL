@@ -1,4 +1,4 @@
-# Simplified Supervised ML Project (Python)
+ ML Project (Python)
 
 Each notebook is broken into small, beginner-friendly cells and includes data inspection, cleaning, model comparison, tuning, and evaluation.
 
