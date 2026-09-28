@@ -3,7 +3,6 @@
 Each notebook is broken into small, beginner-friendly cells and includes data inspection, cleaning, model comparison, tuning, and evaluation.
 
 ## Files
-- Regression/regression_models_simple.ipynb and diabetes_regression.csv
 - Classification/classification_models_simple.ipynb and breast_cancer_classification.csv
 
 ## Run
